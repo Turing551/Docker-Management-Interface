@@ -1,3 +1,15 @@
+<p align="center">
+  <img src="https://github.com/Turing551/Docker-Management-Interface/blob/master/images/Screenshot%20(19).png" alt="Docker Web Interface Project - A simple GUI interface for Docker" title="A simple GUI interface for Docker">
+</p>
+
+
+| <p align="center"><img src="https://github.com/Turing551/Docker-Management-Interface/blob/master/images/Screenshot%20(21).png"/><br/>List of Active Containers</p> |<p align="center"><img src="https://github.com/Turing551/Docker-Management-Interface/blob/master/images/Screenshot%20(22).png"/><br/>List of Exited Containers</p> | <p align="center"><img src="https://github.com/Turing551/Docker-Management-Interface/blob/master/images/Screenshot%20(20).png"/><br/>List of groups</p> |
+|--|--|--|
+
+| <p align="center"><img src="https://github.com/Turing551/Docker-Management-Interface/blob/master/images/Screenshot%20(25).png"/><br/>Container Logs</p> |<p align="center"><img src="https://github.com/Turing551/Docker-Management-Interface/blob/master/images/Screenshot%20(24).png"/><br/>Prune Containers</p> | <p align="center"><img src="https://github.com/Turing551/Docker-Management-Interface/blob/master/images/Screenshot%20(23).png"/><br/>Prune Containers Response</p> |
+|--|--|--|
+
+
 ## Features
 - Instantly start/stop, restart, delete and see the logs of a docker container.
 - Filter containers by their running status.

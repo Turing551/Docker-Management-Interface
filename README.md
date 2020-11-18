@@ -1,5 +1,15 @@
+## Docker Management Interface Features
+- Instantly start/stop, restart, delete and see the logs of a docker container.
+- Filter containers by their running status.
+- Create groups of docker container.
+- Bulk action on container based on group.
+- Run or delete an image.
+- Prune Docker images, containers, volumes, systems.
+- No need to use the terminal for common tasks.
+
+## Docker Web Interface
 <p align="center">
-  <img src="https://github.com/Turing551/Docker-Management-Interface/blob/master/images/Screenshot%20(19).png" alt="Docker Web Interface Project - A simple GUI interface for Docker" title="A simple GUI interface for Docker">
+  <img src="https://github.com/Turing551/Docker-Management-Interface/blob/master/images/Screenshot%20(19).png" alt="Docker Web Interface" title="A simple GUI interface for Docker">
 </p>
 
 
@@ -10,11 +20,4 @@
 |--|--|--|
 
 
-## Features
-- Instantly start/stop, restart, delete and see the logs of a docker container.
-- Filter containers by their running status.
-- Create groups of docker container.
-- Bulk action on container based on group.
-- Run or delete an image.
-- Prune Docker images, containers, volumes, systems.
-- No need to use the terminal for common tasks.
+

@@ -9,7 +9,7 @@
 
 ## Docker Web Interface
 <p align="center">
-  <img src="https://github.com/Turing551/Docker-Management-Interface/blob/master/images/Screenshot%20(19).png" alt="Docker Web Interface" title="A simple GUI interface for Docker">
+![alt text](https://github.com/[turing551]/[Docker-Management-Interface]/blob/[master]/images/Screenshot%20(19).png?raw=true)
 </p>
 
 

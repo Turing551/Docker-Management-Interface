@@ -1,4 +1,4 @@
-## Docker Management Interface Features
+## Docker Management Interface Features as follows
 - Instantly start/stop, restart, delete and see the logs of a docker container.
 - Filter containers by their running status.
 - Create groups of docker container.
